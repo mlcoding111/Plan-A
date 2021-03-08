@@ -1,0 +1,198 @@
+{
+  "devices": [
+    {
+      "deviceType": "Iphone XS",
+      "prix": [
+        {
+          "battery": 55,
+          "screen": 50
+        }
+      ],
+      "serviceType": "Aucun"
+    },
+    {
+      "deviceType": "Iphone XR",
+      "prix": [
+        {
+          "battery": 55,
+          "screen": [
+            {
+              "screenOLED": 155,
+              "screenLCD": 110
+            }
+          ]
+        }
+      ],
+      "screenType": "",
+      "serviceType": "Aucun"
+    },
+    {
+      "deviceType": "Iphone X",
+      "prix": [
+        {
+          "battery": 50,
+          "screen": [
+            {
+              "screenSOFTOLED": 173,
+              "screenGXOLED": 150,
+              "screenGXHARDOLED": 190,
+              "screenLCD": 110
+            }
+          ]
+        }
+      ],
+      "screenType": "",
+      "serviceType": "Aucun"
+    },
+    {
+      "deviceType": "Iphone 8 +",
+      "prix": [
+        {
+          "battery": 46,
+          "screen": 95
+        }
+      ],
+      "serviceType": "Aucun"
+    },
+    {
+      "deviceType": "Iphone 8",
+      "prix": [
+        {
+          "battery": 46,
+          "screen": 90
+        }
+      ],
+      "serviceType": "Aucun"
+    },
+    {
+      "deviceType": "Iphone 7 +",
+      "prix": [
+        {
+          "battery": 42,
+          "screen": 85
+        }
+      ],
+      "serviceType": "Aucun"
+    },
+    {
+      "deviceType": "Iphone 7",
+      "prix": [
+        {
+          "battery": 42,
+          "screen": 80
+        }
+      ],
+      "serviceType": "Aucun"
+    },
+    {
+      "deviceType": "Iphone 6S +",
+      "prix": [
+        {
+          "battery": 38,
+          "screen": 75
+        }
+      ],
+      "serviceType": "Aucun"
+    },
+    {
+      "deviceType": "Iphone 6S",
+      "prix": [
+        {
+          "battery": 38,
+          "screen": 70
+        }
+      ],
+      "serviceType": "Aucun"
+    },
+    {
+      "deviceType": "Iphone 6 +",
+      "prix": [
+        {
+          "battery": 38,
+          "screen": 50
+        }
+      ],
+      "serviceType": "Aucun"
+    },
+    {
+      "deviceType": "Iphone 6",
+      "prix": [
+        {
+          "battery": 38,
+          "screen": 60
+        }
+      ],
+      "serviceType": "Aucun"
+    },
+    {
+      "deviceType": "Iphone 5 SE",
+      "prix": [
+        {
+          "battery": 25,
+          "screen": 50
+        }
+      ],
+      "serviceType": "Aucun"
+    },
+    {
+      "deviceType": "Iphone 5C",
+      "prix": [
+        {
+          "battery": 25,
+          "screen": 45
+        }
+      ],
+      "serviceType": "Aucun"
+    },
+    {
+      "deviceType": "Iphone 5S",
+      "prix": [
+        {
+          "battery": 25,
+          "screen": 50
+        }
+      ],
+      "serviceType": "Aucun"
+    },
+    {
+      "deviceType": "Iphone 4S",
+      "prix": [
+        {
+          "battery": 25,
+          "screen": 35
+        }
+      ],
+      "serviceType": "Aucun"
+    },
+    {
+      "deviceType": "Iphone SE",
+      "prix": [
+        {
+          "battery": 30,
+          "screen": 50
+        }
+      ],
+      "serviceType": "Aucun"
+    },
+    {
+      "deviceType": "Iphone 5",
+      "prix": [
+        {
+          "battery": 25,
+          "screen": 50
+        }
+      ],
+      "serviceType": "Aucun"
+    },
+    {
+      "deviceType": "Iphone 4",
+      "prix": [
+        {
+          "battery": 25,
+          "screen": 30
+        }
+      ],
+      "serviceType": "Aucun"
+    }
+  ]
+}

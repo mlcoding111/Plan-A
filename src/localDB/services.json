@@ -1,0 +1,25 @@
+{
+    "services": [
+        {
+            "serviceType": "Réparation batterie",
+            "prix": "7.98$"
+        },
+        {
+            "serviceType": "Réparation écran",
+            "prix": "7.98$"
+        },
+        {
+            "serviceType": "Réparation caméra",
+            "prix": "7.98$"
+        },
+        {
+            "serviceType": "Réparation écran + batterie",
+            "prix": "7.98$"
+        },
+        {
+            "serviceType": "Tous ces services",
+            "prix": "7.98$"
+        }
+    ]
+}
+

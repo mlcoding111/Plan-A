@@ -1,0 +1,13 @@
+html, body {
+  overflow-x: hidden;
+}
+
+body, html {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
+
+section {
+  padding: 5rem 0;
+  font-size: .8rem;
+}

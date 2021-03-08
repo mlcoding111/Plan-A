@@ -1,0 +1,28 @@
+{
+    "forfaits": [
+        {
+            "forfaitType": "Batterie + Écran",
+            "image": "fas fa-camera",
+            "size": "5x",
+            "description" : ["50% sur le prix de la batterie pour toutes réparation d'un écran et batterie"]
+        },
+        {
+            "forfaitType": "Multi appareils",
+            "image": "fas fa-camera",
+            "size": "5x",
+            "description" : ["15% sur le prix total pour réparation de 3 appareils et +"]
+        },
+        {
+            "forfaitType": "Garantie batterie",
+            "image": "fas fa-camera",
+            "size": "5x",
+            "description" : ["25$ 1 remplacement durée de 2ans", "40$ 2 remplacement durée 2ans"]
+        },
+        {
+            "forfaitType": "Aucun",
+            "image": "fas fa-camera",
+            "size": "5x",
+            "description" : [""]
+        }
+    ]
+}

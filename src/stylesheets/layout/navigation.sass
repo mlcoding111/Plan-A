@@ -1,0 +1,120 @@
+.navbar-bg
+    background-color: #ebebeb !important
+
+.nav-wrap 
+    display: block
+    /* background: url(imgs/bg_body-noise.png) 0 0; */
+    background: #fff
+    box-shadow: 0px 0px 1px #000
+    box-shadow: 0px 0px 1px rgba(0,0,0,.5)
+    position: fixed
+    z-index: 555
+    width: 100%
+    opacity: .95
+
+.force
+    display: block !important
+
+.navbar
+    transition: all 0.2s
+    font-size: 0.9rem
+    padding: 1rem .8rem
+    position: sticky
+    z-index: 555
+
+
+#big-nav
+    box-shadow: 2px 2px 10px black
+
+#logo
+    transition: all 0.2s
+    
+.responsive-navbar-nav
+    color: red !important
+    background-color: red !important
+
+.navbar-nav a
+    margin: 0 0rem
+    text-align: center
+    font-weight: bold
+    padding: 0 1rem
+
+
+.sticky
+    background-color: #fdfdfdcc !important
+    .navbar
+        padding: .4rem .5rem
+    
+
+.sticky #brand
+    font-size: 3rem
+    color: #b67575
+
+.navbar-light .navbar-nav .nav-link
+    transition: (background) 0.2s
+    color: #000000 !important
+    font-weight: bold
+    padding: 1rem
+
+.navbar-light .navbar-nav .nav-link:hover
+    background: #dc6c2f
+    text-decoration: none 
+    color: white !important
+
+
+html,body
+    font-family: 'Michroma', sans-serif !important
+
+#brand
+    transition: all 0.2s
+    font-size: 4rem
+    font-family: 'Lovers Quarrel', cursive !important
+    // font-family: 'Michroma', sans-serif !important
+
+.navbar-nav
+    letter-spacing: 1px
+
+    
+#nav-container
+    max-width: 80% 
+
+@media (max-width: 1100px)
+    #logo
+        width: 25%
+    #nav-container 
+        max-width: 100% !important  
+        
+@media (max-width: 500px)
+    #logo
+        width: 40%
+
+.navbar-toggle 
+    border: none
+    background: transparent !important
+    &:hover 
+        background: transparent !important
+
+
+.icon-bar 
+    width: 22px
+    transition: all 0.2s
+
+.top-bar 
+    transform: rotate(45deg)
+    transform-origin: 10% 10%
+
+.middle-bar 
+    opacity: 0
+
+.bottom-bar 
+    transform: rotate(-45deg)
+    transform-origin: 10% 90%
+    &.collapsed 
+        .top-bar 
+            transform: rotate(0)     
+        .middle-bar 
+            opacity: 1
+        .bottom-bar 
+            transform: rotate(0)
+     
+
