@@ -1,1 +1,1 @@
-http://www.leplana.ca/#/
+http://www.leplana.ca/
