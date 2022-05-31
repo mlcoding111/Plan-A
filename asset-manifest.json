@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Plan-A/static/css/main.f24a26c1.chunk.css",
+    "main.js": "/Plan-A/static/js/main.03e61e4d.chunk.js",
+    "main.js.map": "/Plan-A/static/js/main.03e61e4d.chunk.js.map",
+    "runtime-main.js": "/Plan-A/static/js/runtime-main.406f310a.js",
+    "runtime-main.js.map": "/Plan-A/static/js/runtime-main.406f310a.js.map",
+    "static/css/2.fe5ae4b1.chunk.css": "/Plan-A/static/css/2.fe5ae4b1.chunk.css",
+    "static/js/2.d6e9277f.chunk.js": "/Plan-A/static/js/2.d6e9277f.chunk.js",
+    "static/js/2.d6e9277f.chunk.js.map": "/Plan-A/static/js/2.d6e9277f.chunk.js.map",
+    "static/js/3.2f04c063.chunk.js": "/Plan-A/static/js/3.2f04c063.chunk.js",
+    "static/js/3.2f04c063.chunk.js.map": "/Plan-A/static/js/3.2f04c063.chunk.js.map",
+    "index.html": "/Plan-A/index.html",
+    "static/css/2.fe5ae4b1.chunk.css.map": "/Plan-A/static/css/2.fe5ae4b1.chunk.css.map",
+    "static/css/main.f24a26c1.chunk.css.map": "/Plan-A/static/css/main.f24a26c1.chunk.css.map",
+    "static/js/2.d6e9277f.chunk.js.LICENSE.txt": "/Plan-A/static/js/2.d6e9277f.chunk.js.LICENSE.txt",
+    "static/media/main.sass": "/Plan-A/static/media/electro2.afb164cf.png",
+    "static/media/font-awesome.min.css": "/Plan-A/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/iphone-7.92359576.svg": "/Plan-A/static/media/iphone-7.92359576.svg",
+    "static/media/logo.9ea86acc.svg": "/Plan-A/static/media/logo.9ea86acc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.406f310a.js",
+    "static/css/2.fe5ae4b1.chunk.css",
+    "static/js/2.d6e9277f.chunk.js",
+    "static/css/main.f24a26c1.chunk.css",
+    "static/js/main.03e61e4d.chunk.js"
+  ]
+}
