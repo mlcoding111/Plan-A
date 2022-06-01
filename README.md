@@ -13,7 +13,7 @@
     <br />
     <h4>Date published : 2020-11-22 </h4>
     <br />
-          <br />
+    <br />
     <a href="https://mlcoding111.github.io/modern-movie/" target="_blank">View Demo</a>
   </p>
 </div>
