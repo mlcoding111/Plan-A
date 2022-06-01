@@ -5,10 +5,10 @@
     <img src="https://user-images.githubusercontent.com/57301242/171293021-fd044fac-898a-44bd-a3bb-16c932fcd38b.png" alt="Logo" >
   </a>
 
-<h2 align="center">Website for a local mobile phone repair company.</h2>
+<h2 align="center">Plan A</h2>
 
   <p align="center">
-    Modern movie app using TMDB api
+    Website for a local mobile phone repair company
     <br />
     <br />
     <h4>Date published : 2020-11-22 </h4>
