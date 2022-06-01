@@ -39,7 +39,7 @@
 ## About The Project
 
 
-<img src="https://puu.sh/J3atr/3fb805ef57.jpg" alt="Logo" >
+<img src="https://puu.sh/J3wAY/80a851e7a1.png" alt="Logo" >
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -47,8 +47,8 @@
 ### Built With
 
 * [React.js](https://reactjs.org/)
-* [Styled Components](https://styled-components.com/)
-* [TypeScript](https://www.typescriptlang.org/)
+* [Sass](https://sass-lang.com/)
+* [Bootstrap](https://getbootstrap.com/)
 
 
 <!-- DESING -->
